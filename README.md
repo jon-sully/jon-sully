@@ -1,4 +1,7 @@
-![IMG_3169](https://user-images.githubusercontent.com/8585984/89671725-7c090b80-d8b1-11ea-8099-3349b804f358.jpeg)
+<!-- ![IMG_3169](https://user-images.githubusercontent.com/8585984/89671725-7c090b80-d8b1-11ea-8099-3349b804f358.jpeg) -->
+
+![0001-DSCF0001](https://user-images.githubusercontent.com/8585984/173602985-04b31036-e28e-4fa1-8cd0-1bd840c30990.jpg)
+
 
 ## Hi there 👋🏻 I'm Jon.
 
