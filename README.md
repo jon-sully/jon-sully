@@ -13,11 +13,17 @@ Welcome to my GitHub 🤓
 
 [jonsully.net][1] for reading & writing 📚✏️
 
-[sullyshoots.com][11] for pictures / photog 📸
-
-[Netlify Forums][12] for JAMstack support
+Primarily focusing on full-stack Rails development, but have a history in several stacks
 
 ---
+
+### Turbo 8 Page Refreshes with Morphing Magic?
+
+Read my extensive [guide][11]!
+
+### Multi-Step Forms ('Wizards') On Rails (+ Hotwire)?
+
+Check out the [9-Part Full Guide!][10]
 
 ### Integrating [Netlify Forms][2] into React-based SSG?
 
@@ -31,11 +37,6 @@ Welcome to my GitHub 🤓
 
 First, [read this][9], then install [gatsby-plugin-force-trailing-slashes][8]
 
-### Multi-Step Forms ('Wizards') On Rails (+ Hotwire)?
-
-Check out the [9-Part Full Guide!][10]
-
-
 [1]: https://jonsully.net
 [2]: https://www.netlify.com/products/forms/
 [3]: https://docs.netlify.com/visitor-access/identity/?_ga=2.161527674.753421898.1607742957-1297949836.1605300758
@@ -46,5 +47,4 @@ Check out the [9-Part Full Guide!][10]
 [8]: https://github.com/jon-sully/gatsby-plugin-force-trailing-slashes
 [9]: https://jonsully.net/blog/trailing-slashes-and-gatsby/
 [10]: https://jonsully.net/blog/rails-wizards-part-one/
-[11]: https://sullyshoots.com/
-[12]: https://forums.netlify.com
+[11]: https://jonsully.net/blog/turbo-8-page-refreshes-morphing-explained-at-length/
