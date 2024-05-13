@@ -9,9 +9,9 @@
 
 ---
 
-Welcome to my GitHub 🤓
+**Head of Engineering for [Agent Pronto][12]**
 
-[jonsully.net][1] for reading & writing 📚✏️
+See [jonsully.net][1] for my writings, thoughts, and growth ideas 📚✏️
 
 Primarily focusing on full-stack Rails development, but have a history in several stacks
 
@@ -24,6 +24,8 @@ Read my extensive [guide][11]!
 ### Multi-Step Forms ('Wizards') On Rails (+ Hotwire)?
 
 Check out the [9-Part Full Guide!][10]
+
+---
 
 ### Integrating [Netlify Forms][2] into React-based SSG?
 
@@ -48,3 +50,4 @@ First, [read this][9], then install [gatsby-plugin-force-trailing-slashes][8]
 [9]: https://jonsully.net/blog/trailing-slashes-and-gatsby/
 [10]: https://jonsully.net/blog/rails-wizards-part-one/
 [11]: https://jonsully.net/blog/turbo-8-page-refreshes-morphing-explained-at-length/
+[12]: https://agentpronto.com
